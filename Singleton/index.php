@@ -3,7 +3,6 @@ namespace DesignPatterns\Singleton;
 class DB{
     /**
      * 声明一个静态属性用于储存实例
-     * @var null
      */
     private static $instances = null;
 
