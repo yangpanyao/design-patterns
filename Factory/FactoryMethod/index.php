@@ -1,5 +1,5 @@
 <?php
-namespace DesignPattern\Factory\FactoryMethod;
+namespace DesignPatterns\Factory\FactoryMethod;
 
 /**
  * 抽象产品角色
