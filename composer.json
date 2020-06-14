@@ -1,0 +1,15 @@
+{
+  "name": "yangpanyao/design-patterns",
+  "description": "design-patterns example code",
+  "authors": [
+    {
+      "name": "yangpanyao",
+      "email": "yangpanyao@126.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DesignPatterns\\": ""
+    }
+  }
+}
