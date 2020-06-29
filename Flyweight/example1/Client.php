@@ -3,7 +3,7 @@ namespace DesignPatterns\Flyweight\example1;
 require dirname(__DIR__).'/../vendor/autoload.php';
 /**
  * Class Client
- * @package DesignPatterns\Flyweight\example
+ * @package DesignPatterns\Flyweight\example1
  */
 class Client
 {
