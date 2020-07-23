@@ -13,7 +13,7 @@ class Mediator
     public function operation($num, $message)
     {
         if (!array_key_exists($num,$this->colleague)) {
-            echo __CLASS__."--交换机内没有此号码信息，无法通话".PHP_EOL;
+            echo "交换机内没有此号码信息，无法通话".PHP_EOL;
         }else{
             $this->colleague[$num]->receiveMsg($message);
         }
