@@ -67,32 +67,52 @@
 #### 创建型
 
 [单例模式](https://github.com/yangpanyao/design-patterns/tree/master/Singleton "单例模式")
+
 [工厂模式](https://github.com/yangpanyao/design-patterns/tree/master/Factory "工厂模式")
+
 [建造者模式](https://github.com/yangpanyao/design-patterns/tree/master/Builder "建造者模式")
+
 [原型模式](https://github.com/yangpanyao/design-patterns/tree/master/Prototype "原型模式")
 
 #### 结构型
 
 [代理模式](https://github.com/yangpanyao/design-patterns/tree/master/Proxy "代理模式")
+
 [桥接模式](https://github.com/yangpanyao/design-patterns/tree/master/Bridge "桥接模式")
+
 [装饰器模式](https://github.com/yangpanyao/design-patterns/tree/master/Decorator "装饰器模式")
+
 [适配器模式](https://github.com/yangpanyao/design-patterns/tree/master/Adapter "适配器模式")
+
 [门面模式](https://github.com/yangpanyao/design-patterns/tree/master/Facade "门面模式")
+
 [组合模式](https://github.com/yangpanyao/design-patterns/tree/master/Composite "组合模式")
+
 [亨元模式](https://github.com/yangpanyao/design-patterns/tree/master/Flyweight "亨元模式")
+
 
 #### 行为型
 
 [观察者模式](https://github.com/yangpanyao/design-patterns/tree/master/Observer "观察者模式")
+
 [模板方法模式](https://github.com/yangpanyao/design-patterns/tree/master/TemplateMethod "模板方法模式")
+
 [策略模式](https://github.com/yangpanyao/design-patterns/tree/master/Strategy "策略模式")
+
 [职责链模式](https://github.com/yangpanyao/design-patterns/tree/master/ChainOfResponsibility "职责链模式")
+
 [状态模式](https://github.com/yangpanyao/design-patterns/tree/master/State "状态模式")
+
 [迭代器模式](https://github.com/yangpanyao/design-patterns/tree/master/Iterator "迭代器模式")
+
 [备忘录模式](https://github.com/yangpanyao/design-patterns/tree/master/Memento "备忘录模式")
+
 [命令模式](https://github.com/yangpanyao/design-patterns/tree/master/Command "命令模式")
+
 [解释器模式](https://github.com/yangpanyao/design-patterns/tree/master/Interpreter "解释器模式")
+
 [中介者模式](https://github.com/yangpanyao/design-patterns/tree/master/Mediator "中介者模式")
+
 [访问者模式](https://github.com/yangpanyao/design-patterns/tree/master/Visitor "访问者模式")
 
 
